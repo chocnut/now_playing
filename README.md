@@ -9,11 +9,10 @@ Installation
     - url:
     - session_key:
  - run server using shotgun -p 4567
- - lastly. of course you need to run iTunes
+ - lastly. of course you need to run iTunes and this only works in OSX
 
 Purpose: Learning new stuff
 
-*LICENSE*
 
 THE BEER-WARE LICENSE
 
