@@ -1,9 +1,7 @@
 Share current playing iTunes track to Facebook using Ruby and Sinatra
 
-This use Sinatra and ruby-appscript
-
 Installation
- - Clone the Code
+ - clone the code
  - bundle install
  - create config.yml and add config settings 
     - app_id:
