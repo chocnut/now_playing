@@ -1,4 +1,4 @@
-Share current playing track of iTunes to Facebook using Ruby and Sinatra
+Post current Itunes track to Facebook
 
 Installation
  - clone the code
