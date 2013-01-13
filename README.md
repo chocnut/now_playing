@@ -1,4 +1,4 @@
-Post current Itunes track to Facebook
+Post current iTunes track to Facebook
 
 Installation
  - clone the code
